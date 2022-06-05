@@ -35,6 +35,16 @@ https://github.com/zbti84/mqtt
 추가적으로 모니터링을 위해 mqtt를 사용하여 모니터링 시스템을 구축했다.
 
 
+## 시연영상
+
+(1)
+![Hnet-image](https://user-images.githubusercontent.com/74825481/172054898-e860f8ff-c2ca-485b-ac36-3b25dbc08645.gif)
+
+(2)
+![Hnet-image (1)](https://user-images.githubusercontent.com/74825481/172054899-93d013de-19ed-46c4-97ef-fd44f3b69bcc.gif)
+
+
+
 ## 기대효과
 * 편리성 : 
 앱 내 기능들은 워치의 물리버튼을 클릭함으로써 사용할 수 있어 편리성을 향상시킴. 
