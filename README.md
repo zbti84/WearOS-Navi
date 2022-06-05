@@ -7,6 +7,9 @@ https://github.com/zbti84/wearosnavi
 mqtt project
 https://github.com/zbti84/mqtt
 
+## 수상성적
+![msedge_wuANsfR6Dh](https://user-images.githubusercontent.com/74825481/172051899-b6e051c4-ebdb-4be1-8186-216b0ced2ac1.png)
+
 
 ## 개발개요
 지도 API' + 'GPS' + '마이크 기능' + '진동 기능'을 이용하여 음성안내 및 시각적인 정보
