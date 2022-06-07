@@ -26,7 +26,8 @@ https://github.com/zbti84/mqtt
 
 
 ## 프로젝트 구조도
-![image](https://user-images.githubusercontent.com/74825481/171761600-a8b87165-215d-48d4-b0d8-374fe18f06a5.png)
+<img width="652" alt="KakaoTalk_20220607_205319308" src="https://user-images.githubusercontent.com/74825481/172372926-b2050e1e-b952-444c-8f54-7d3046305303.png">
+
 
 사용자가 음성을 텍스트로 변환하여 이를 목적지로 인식하고 목적지까지의 길을 안내한다.
 
